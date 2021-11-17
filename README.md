@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 -->
 **LANGUAGUES AND INFO**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAntunezPerez&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAntunezPerez&show_icons=true&theme=nord) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAntunezPerez&layout=compact)](https://github.com/DavidAntunezPerez)
+
 
 
 **TOP REPOSITORIES**
