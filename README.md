@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 **TOP REPOSITORIES**
 
-api/pin?username=DavidAntunezPerez&repo=programming_exercises
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=programming_exercises)](https://github.com/anuraghazra/github-readme-stats)
 
-api/pin?username=DavidAntunezPerez&repo=halloween
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=halloween)](https://github.com/anuraghazra/github-readme-stats)
+
