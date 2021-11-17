@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 **TOP REPOSITORIES**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=programming_exercises)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=programming_exercises)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=halloween)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=halloween)](https://github.com/anuraghazra/github-readme-stats)
+
 
