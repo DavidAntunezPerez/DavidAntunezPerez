@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 #### TOP REPOSITORIES
 
-<a href="https://github.com/DavidAntunezPerez/programming_exercise">
+<a href="https://github.com/DavidAntunezPerez/programming_exercises">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=programming_exercises&theme=default" />
 </a>
 <a href="https://github.com/DavidAntunezPerez/halloween">
