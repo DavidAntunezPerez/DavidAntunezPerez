@@ -3,7 +3,7 @@
 ## ABOUT ME
 
 I am a 18 yrs old passionate programming student!
-- 📚 I’m currently learning Cross-Platform App Development at @IESCampanillas
+- 📚 I’m currently learning Cross-Platform App Development at [@IESCampanillas](https://github.com/iescampanillas)
 - 👾 My hobbies are: Videogames 🎮, Paddle 🎾, Good music 🎶 & Programming 👨‍💻
 - 💬 You can contact me [here](mailto:antunezdavid2003@gmail.com)
 
