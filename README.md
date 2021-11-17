@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋 !
 
-**ABOUT ME**
+### ABOUT ME
 
 I am a 18 yrs old passionate programming student!
 - 📚 I’m currently learning Cross-Platform App Development at @IESCampanillas
