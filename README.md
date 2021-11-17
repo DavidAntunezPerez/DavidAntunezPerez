@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/DavidAntunezPerez/programming_exercises">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=programming_exercises&theme=default" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/DavidAntunezPerez/halloween">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=halloween&theme=default" />
 </a>
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/antu_49">
+  <img align="right" alt="DavidAntunezPerez | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
