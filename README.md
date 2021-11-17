@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**LANGUAGUES AND INFO**
+### LANGUAGUES AND INFO
 
 | <a href="https://github.com/DavidAntunezPerez/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidAntunezPerez&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="David's GitHub Stats" /></a> | <a href="https://github.com/DavidAntunezPerez"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAntunezPerez&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-**TOP REPOSITORIES**
+#### TOP REPOSITORIES
 
 <a href="https://github.com/DavidAntunezPerez/programming_exercises">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=programming_exercises&theme=default" />
@@ -34,17 +34,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=halloween&theme=default" />
 </a>
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
 <br />
 <br />
 
