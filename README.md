@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my profile 👋 !
+
+**ABOUT ME**
+
+I am a 18 yrs old passionate programming student!
+- 📚 I’m currently learning Cross-Platform App Development at @IESCampanillas
+- 👾 My hobbies are: Videogames 🎮, Paddle 🎾, Good music 🎶 & Programming 👨‍💻
+- 💬 You can contact me [here](mailto:antunezdavid2003@gmail.com)
 
 <!--
 **DavidAntunezPerez/DavidAntunezPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**LANGUAGUES AND INFO**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAntunezPerez&show_icons=true&theme=nord)
 
+
+**TOP REPOSITORIES**
+api/pin?username=DavidAntunezPerez&repo=programming_exercises
+
+api/pin?username=DavidAntunezPerez&repo=halloween
