@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 #### TOP REPOSITORIES
 
-<a href="https://github.com/DavidAntunezPerez/pirate_song">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=pirate_song&theme=default" />
+<a href="https://github.com/DavidAntunezPerez/pirate-song">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=pirate-song&theme=default" />
 </a> <a href="https://github.com/DavidAntunezPerez/halloween">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=halloween&theme=default" />
 </a>
