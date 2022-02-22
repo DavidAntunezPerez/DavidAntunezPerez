@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ### TOP REPOSITORIES
 
 <a href="https://github.com/DavidAntunezPerez/programming_exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=DavidAntunezPerez&repo=programming_exercises&theme=default" /> </a> <a href="https://github.com/DavidAntunezPerez/ml-bootstrap-kiringaming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=ml-bootstrap-kiringaming&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=DavidAntunezPerez&repo=programming_exercises&theme=default" /> </a> <a href="https://github.com/DavidAntunezPerez/TheSCPFoundation-CRUD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=TheSCPFoundation-CRUD&theme=default" />
 </a>
 <br />
 <br />
