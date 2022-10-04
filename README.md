@@ -35,6 +35,3 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<a href="https://twitter.com/antu_49">
-  <img align="right" alt="DavidAntunezPerez | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
