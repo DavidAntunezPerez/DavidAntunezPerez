@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### TOP REPOSITORIES
 
-<a href="https://github.com/DavidAntunezPerez/programming_exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=DavidAntunezPerez&repo=programming_exercises&theme=default" /> </a> <a href="https://github.com/DavidAntunezPerez/TheSCPFoundation-CRUD">
+<a href="https://github.com/DavidAntunezPerez/eteam_mkr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=DavidAntunezPerez&repo=eteam_mkr&theme=default" /> </a> <a href="https://github.com/DavidAntunezPerez/TheSCPFoundation-CRUD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidAntunezPerez&repo=TheSCPFoundation-CRUD&theme=default" />
 </a>
 <br />
