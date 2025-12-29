@@ -2,7 +2,8 @@
 
 ## ABOUT ME
 
-I am a 22 yrs old passionate programming student!
+I am a 22 yrs old Frontend Developer & UX / UI designer. Crafting solutions and still passionate about every line of code.
+
 - 📚 I am a Higher Technician in Multi-Platform Applications Developer that studied at [CPIFP Alan Turing](https://github.com/CPIFPAlanTuring)
 - 👾 My hobbies are: Video Games 🎮, Paddle 🎾, Good music 🎶 & Programming 👨‍💻
 - 💬 You can contact me [here](mailto:antunezdavid2003@gmail.com)
